@@ -1,5 +1,5 @@
-# Mathy_Bot
- A simple Twitch chat bot written in Javascript from the example found at https://dev.twitch.tv/docs/irc and expanded with small but useful functionalities such as an uptime command.
+# Twitch_Chat_Bot
+A simple Twitch chat bot written in Javascript from the example found at https://dev.twitch.tv/docs/irc and expanded with small but useful functionalities such as an uptime command.
  
 # How to use
  
